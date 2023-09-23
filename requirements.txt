@@ -13,3 +13,5 @@ tiktoken
 llama-index==0.4.33
 langchain==0.0.129
 faiss-cpu
+plotly
+ipython
