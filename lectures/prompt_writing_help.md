@@ -164,7 +164,7 @@ So in order to get an English completion, we can ask for an English-only answer:
 > -Carrots
 > -Pasta
 
-Starting with `text-davinci-003`, GPT-3 is getting better at also answering in your preferred non-English language. Hence specifying that you want an, e.g. German response, might then give consistent results. However, this does not work reliably with `text-davinci-002`.
+Starting with `gpt-35-turbo`, GPT-3 is getting better at also answering in your preferred non-English language. Hence specifying that you want an, e.g. German response, might then give consistent results. However, this does not work reliably with `text-davinci-002`.
 
 ## Avoiding false information
 
