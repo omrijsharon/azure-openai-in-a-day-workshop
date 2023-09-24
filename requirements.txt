@@ -1,11 +1,9 @@
-azure-identity==1.6.0
-streamlit==1.18.1
+streamlit
 openai
 python-dotenv
 numpy
 pandas
 matplotlib
-plotly
 scipy
 scikit-learn
 tenacity
@@ -16,3 +14,4 @@ faiss-cpu
 plotly
 ipython
 sentence-transformers
+tqdm
